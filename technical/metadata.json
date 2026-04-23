@@ -1,0 +1,3095 @@
+{
+  "base_url": "https://prettify.es",
+  "domain": "prettify.es",
+  "requires_js": false,
+  "pages_count": 31,
+  "pages": [
+    {
+      "url": "https://prettify.es",
+      "title": "Salones de Belleza: Manicura, Pedicura, Cejas y Pestañas - Prettify",
+      "meta_description": "Prettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián",
+      "canonical": "https://prettify.es/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "website",
+        "og:title": "Salones de Belleza: Manicura, Pedicura, Cejas y Pestañas - Prettify",
+        "og:description": "Prettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián",
+        "og:url": "https://prettify.es/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/",
+              "url": "https://prettify.es/",
+              "name": "Salones de Belleza: Manicura, Pedicura, Cejas y Pestañas - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T22:13:29+00:00",
+              "dateModified": "2026-02-17T20:33:53+00:00",
+              "description": "Prettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián",
+              "breadcrumb": {
+                "@id": "https://prettify.es/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 2,
+      "word_count": 399
+    },
+    {
+      "url": "https://prettify.es/",
+      "title": "Salones de Belleza: Manicura, Pedicura, Cejas y Pestañas - Prettify",
+      "meta_description": "Prettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián",
+      "canonical": "https://prettify.es/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "website",
+        "og:title": "Salones de Belleza: Manicura, Pedicura, Cejas y Pestañas - Prettify",
+        "og:description": "Prettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián",
+        "og:url": "https://prettify.es/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/",
+              "url": "https://prettify.es/",
+              "name": "Salones de Belleza: Manicura, Pedicura, Cejas y Pestañas - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T22:13:29+00:00",
+              "dateModified": "2026-02-17T20:33:53+00:00",
+              "description": "Prettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián",
+              "breadcrumb": {
+                "@id": "https://prettify.es/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 2,
+      "word_count": 399
+    },
+    {
+      "url": "https://prettify.es/mapa-del-sitio-web/",
+      "title": "Mapa del sitio Web - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/mapa-del-sitio-web/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Mapa del sitio Web - Prettify",
+        "og:url": "https://prettify.es/mapa-del-sitio-web/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/mapa-del-sitio-web/",
+              "url": "https://prettify.es/mapa-del-sitio-web/",
+              "name": "Mapa del sitio Web - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T22:11:55+00:00",
+              "dateModified": "2023-09-14T22:17:46+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/mapa-del-sitio-web/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/mapa-del-sitio-web/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/mapa-del-sitio-web/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Mapa del sitio Web"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://prettify.es/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Mapa del sitio Web"
+              }
+            ]
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 140
+    },
+    {
+      "url": "https://prettify.es/finalizar-compra/",
+      "title": "Carrito - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/carrito/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Carrito - Prettify",
+        "og:url": "https://prettify.es/carrito/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/carrito/",
+              "url": "https://prettify.es/carrito/",
+              "name": "Carrito - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T21:58:32+00:00",
+              "dateModified": "2023-09-16T10:03:04+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/carrito/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/carrito/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/carrito/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Carrito"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 2,
+      "word_count": 15
+    },
+    {
+      "url": "https://prettify.es/favoritos/",
+      "title": "Favoritos - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/favoritos/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Favoritos - Prettify",
+        "og:url": "https://prettify.es/favoritos/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/favoritos/",
+              "url": "https://prettify.es/favoritos/",
+              "name": "Favoritos - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T22:11:46+00:00",
+              "dateModified": "2023-09-16T11:13:34+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/favoritos/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/favoritos/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/favoritos/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Favoritos"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://prettify.es/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Favoritos"
+              }
+            ]
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 0
+    },
+    {
+      "url": "https://prettify.es/mi-cuenta/",
+      "title": "Mi cuenta - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/mi-cuenta/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Mi cuenta - Prettify",
+        "og:url": "https://prettify.es/mi-cuenta/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/mi-cuenta/",
+              "url": "https://prettify.es/mi-cuenta/",
+              "name": "Mi cuenta - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T21:58:32+00:00",
+              "dateModified": "2023-11-05T17:23:25+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/mi-cuenta/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/mi-cuenta/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/mi-cuenta/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Mi cuenta"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://prettify.es/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Mi cuenta"
+              }
+            ]
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 15
+    },
+    {
+      "url": "https://prettify.es/cursos-personal/",
+      "title": "Cursos Personal - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/cursos-personal/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Cursos Personal - Prettify",
+        "og:url": "https://prettify.es/cursos-personal/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/cursos-personal/",
+              "url": "https://prettify.es/cursos-personal/",
+              "name": "Cursos Personal - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2024-10-14T14:43:30+00:00",
+              "dateModified": "2024-10-14T14:47:14+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/cursos-personal/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/cursos-personal/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/cursos-personal/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Contenido restringido"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://prettify.es/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Contenido restringido"
+              }
+            ]
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 11
+    },
+    {
+      "url": "https://prettify.es/aviso-legal/",
+      "title": "Aviso legal - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/aviso-legal/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Aviso legal - Prettify",
+        "og:description": "RESPONSABLE DE TRATAMIENTO DE DATOS PERSONALES PRETTIFY FRANCHISING, S.L, con B44948156, domicilio en C/DE CÁCERES PUERTA 2 Nº:49 28045 MADRID",
+        "og:url": "https://prettify.es/aviso-legal/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/aviso-legal/",
+              "url": "https://prettify.es/aviso-legal/",
+              "name": "Aviso legal - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T22:09:38+00:00",
+              "dateModified": "2024-10-14T14:48:48+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/aviso-legal/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/aviso-legal/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/aviso-legal/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Aviso legal"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://prettify.es/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Aviso legal"
+              }
+            ]
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 2061
+    },
+    {
+      "url": "https://prettify.es/politica-privacidad/",
+      "title": "Política de privacidad - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/politica-privacidad/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Política de privacidad - Prettify",
+        "og:description": "RESPONSABLE DE TRATAMIENTO DE DATOS PERSONALES PRETTIFY FRANCHISING, S.L, con B44948156, domicilio en C/DE CÁCERES PUERTA 2 Nº:49 28045 MADRID",
+        "og:url": "https://prettify.es/politica-privacidad/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/politica-privacidad/",
+              "url": "https://prettify.es/politica-privacidad/",
+              "name": "Política de privacidad - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T21:53:17+00:00",
+              "dateModified": "2024-10-14T14:49:19+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/politica-privacidad/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/politica-privacidad/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/politica-privacidad/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Política de privacidad"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://prettify.es/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Política de privacidad"
+              }
+            ]
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 1898
+    },
+    {
+      "url": "https://prettify.es/terminos-y-condiciones/",
+      "title": "Términos y condiciones - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/terminos-y-condiciones/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Términos y condiciones - Prettify",
+        "og:description": "Estas Condiciones de Compra regulan la oferta, el envío y la aceptación de pedidos de compra de productos en la web.",
+        "og:url": "https://prettify.es/terminos-y-condiciones/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/terminos-y-condiciones/",
+              "url": "https://prettify.es/terminos-y-condiciones/",
+              "name": "Términos y condiciones - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T22:13:10+00:00",
+              "dateModified": "2024-10-14T14:51:26+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/terminos-y-condiciones/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/terminos-y-condiciones/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/terminos-y-condiciones/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Términos y condiciones"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://prettify.es/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Términos y condiciones"
+              }
+            ]
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 3059
+    },
+    {
+      "url": "https://prettify.es/tienda-online/",
+      "title": "Tienda online - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/tienda-online/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Tienda online - Prettify",
+        "og:url": "https://prettify.es/tienda-online/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/tienda-online/",
+              "url": "https://prettify.es/tienda-online/",
+              "name": "Tienda online - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://prettify.es/tienda-online/#primaryimage"
+              },
+              "image": {
+                "@id": "https://prettify.es/tienda-online/#primaryimage"
+              },
+              "thumbnailUrl": "https://prettify.es/wp-content/uploads/2024/10/bono_prettify.jpg",
+              "datePublished": "2023-09-14T21:58:32+00:00",
+              "dateModified": "2024-10-15T14:46:53+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/tienda-online/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/tienda-online/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "es",
+              "@id": "https://prettify.es/tienda-online/#primaryimage",
+              "url": "https://prettify.es/wp-content/uploads/2024/10/bono_prettify.jpg",
+              "contentUrl": "https://prettify.es/wp-content/uploads/2024/10/bono_prettify.jpg",
+              "width": 850,
+              "height": 850
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/tienda-online/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Tienda online"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "name": "Inicio",
+                "@id": "https://prettify.es"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "name": "Tienda online",
+                "@id": "https://prettify.es/tienda-online/"
+              }
+            }
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 56
+    },
+    {
+      "url": "https://prettify.es/declaracion-de-accesibilidad/",
+      "title": "Declaración de accesibilidad - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/declaracion-de-accesibilidad/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Declaración de accesibilidad - Prettify",
+        "og:description": "DECLARACIÓN DE ACCESIBILIDAD Prettify se ha comprometido a hacer accesible su sitio web de conformidad con el Real Decreto 1112/2018,",
+        "og:url": "https://prettify.es/declaracion-de-accesibilidad/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/declaracion-de-accesibilidad/",
+              "url": "https://prettify.es/declaracion-de-accesibilidad/",
+              "name": "Declaración de accesibilidad - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T22:11:06+00:00",
+              "dateModified": "2024-11-08T09:24:50+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/declaracion-de-accesibilidad/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/declaracion-de-accesibilidad/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/declaracion-de-accesibilidad/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Declaración de accesibilidad"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://prettify.es/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Declaración de accesibilidad"
+              }
+            ]
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 416
+    },
+    {
+      "url": "https://prettify.es/politica-de-cookies/",
+      "title": "Política de cookies - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/politica-de-cookies/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Política de cookies - Prettify",
+        "og:description": "En cumplimiento con el artículo 22 de la LSSI en este apartado le informamos sobre: 1. ¿Qué es una Cookie?",
+        "og:url": "https://prettify.es/politica-de-cookies/",
+        "og:site_name": "Prettify",
+        "og:image": "https://prettify.es/wp-content/uploads/2023/10/modificar-ajustes-cookies.png",
+        "og:image:width": "288",
+        "og:image:height": "65",
+        "og:image:type": "image/png"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/politica-de-cookies/",
+              "url": "https://prettify.es/politica-de-cookies/",
+              "name": "Política de cookies - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://prettify.es/politica-de-cookies/#primaryimage"
+              },
+              "image": {
+                "@id": "https://prettify.es/politica-de-cookies/#primaryimage"
+              },
+              "thumbnailUrl": "https://prettify.es/wp-content/uploads/2023/10/ajustes-cookies.png",
+              "datePublished": "2023-09-14T21:53:17+00:00",
+              "dateModified": "2024-11-08T09:33:04+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/politica-de-cookies/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/politica-de-cookies/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "es",
+              "@id": "https://prettify.es/politica-de-cookies/#primaryimage",
+              "url": "https://prettify.es/wp-content/uploads/2023/10/modificar-ajustes-cookies.png",
+              "contentUrl": "https://prettify.es/wp-content/uploads/2023/10/modificar-ajustes-cookies.png",
+              "width": 288,
+              "height": 65
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/politica-de-cookies/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Política de cookies"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://prettify.es/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Política de cookies"
+              }
+            ]
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 2287
+    },
+    {
+      "url": "https://prettify.es/sobre-prettify/",
+      "title": "Sobre Prettify - Prettify",
+      "meta_description": "Conoce Prettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+      "canonical": "https://prettify.es/sobre-prettify/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Sobre Prettify - Prettify",
+        "og:description": "Conoce Prettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+        "og:url": "https://prettify.es/sobre-prettify/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/sobre-prettify/",
+              "url": "https://prettify.es/sobre-prettify/",
+              "name": "Sobre Prettify - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T22:12:04+00:00",
+              "dateModified": "2024-11-08T16:18:03+00:00",
+              "description": "Conoce Prettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+              "breadcrumb": {
+                "@id": "https://prettify.es/sobre-prettify/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/sobre-prettify/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/sobre-prettify/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Sobre Prettify"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 2,
+      "word_count": 193
+    },
+    {
+      "url": "https://prettify.es/acceder/",
+      "title": "Acceder - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/acceder/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Acceder - Prettify",
+        "og:url": "https://prettify.es/acceder/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/acceder/",
+              "url": "https://prettify.es/acceder/",
+              "name": "Acceder - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2024-11-12T20:31:29+00:00",
+              "dateModified": "2024-11-12T20:31:51+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/acceder/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/acceder/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/acceder/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Acceder"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://prettify.es/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Acceder"
+              }
+            ]
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 22
+    },
+    {
+      "url": "https://prettify.es/franquicias/",
+      "title": "Franquicias - Prettify",
+      "meta_description": "¿Quieres una franquicia Prettify? Somos tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+      "canonical": "https://prettify.es/franquicias/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Franquicias - Prettify",
+        "og:description": "¿Quieres una franquicia Prettify? Somos tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+        "og:url": "https://prettify.es/franquicias/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/franquicias/",
+              "url": "https://prettify.es/franquicias/",
+              "name": "Franquicias - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2024-10-04T16:25:34+00:00",
+              "dateModified": "2024-11-19T16:14:07+00:00",
+              "description": "¿Quieres una franquicia Prettify? Somos tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+              "breadcrumb": {
+                "@id": "https://prettify.es/franquicias/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/franquicias/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/franquicias/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Franquicias"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 2,
+      "word_count": 311
+    },
+    {
+      "url": "https://prettify.es/manicura-barcelona/",
+      "title": "Tratamientos de Manicura en Barcelona: Salones de Belleza Prettify",
+      "meta_description": "Tratamientos de manicura manos, desde un servicio exprés hasta uno más completo Uñas más largas y sofisticadas: opciones de acrílico y gel",
+      "canonical": "https://prettify.es/manicura-barcelona/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Tratamientos de Manicura en Barcelona: Salones de Belleza Prettify",
+        "og:description": "Tratamientos de manicura manos, desde un servicio exprés hasta uno más completo Uñas más largas y sofisticadas: opciones de acrílico y gel",
+        "og:url": "https://prettify.es/manicura-barcelona/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/manicura-barcelona/",
+              "url": "https://prettify.es/manicura-barcelona/",
+              "name": "Tratamientos de Manicura en Barcelona: Salones de Belleza Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2025-01-28T17:02:42+00:00",
+              "dateModified": "2025-01-29T10:31:40+00:00",
+              "description": "Tratamientos de manicura manos, desde un servicio exprés hasta uno más completo Uñas más largas y sofisticadas: opciones de acrílico y gel",
+              "breadcrumb": {
+                "@id": "https://prettify.es/manicura-barcelona/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/manicura-barcelona/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/manicura-barcelona/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Manicura en Barcelona: Eleva el cuidado de tus manos a otro nivel"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 284
+    },
+    {
+      "url": "https://prettify.es/pedicura-barcelona/",
+      "title": "Tratamientos de Pedicura en Barcelona: Salones de Belleza en Prettify",
+      "meta_description": "Experiencia única para el cuidado de tus pies en Barcelona. Contamos con una exclusiva zona de pedicura equipada para realizar tratamientos.",
+      "canonical": "https://prettify.es/pedicura-barcelona/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Tratamientos de Pedicura en Barcelona: Salones de Belleza en Prettify",
+        "og:description": "Experiencia única para el cuidado de tus pies en Barcelona. Contamos con una exclusiva zona de pedicura equipada para realizar tratamientos.",
+        "og:url": "https://prettify.es/pedicura-barcelona/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/pedicura-barcelona/",
+              "url": "https://prettify.es/pedicura-barcelona/",
+              "name": "Tratamientos de Pedicura en Barcelona: Salones de Belleza en Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2025-01-28T17:34:30+00:00",
+              "dateModified": "2025-01-29T10:33:46+00:00",
+              "description": "Experiencia única para el cuidado de tus pies en Barcelona. Contamos con una exclusiva zona de pedicura equipada para realizar tratamientos.",
+              "breadcrumb": {
+                "@id": "https://prettify.es/pedicura-barcelona/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/pedicura-barcelona/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/pedicura-barcelona/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Pedicura en Barcelona: El cuidado que tus pies merecen"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 280
+    },
+    {
+      "url": "https://prettify.es/pestanas-barcelona/",
+      "title": "Tratamiento de Pestañas en Barcelona: Salones de Belleza Prettify",
+      "meta_description": "Si buscas realzar tus pestañas naturales con un acabado elegante y sin necesidad de maquillaje, el lifting de pestañas es ideal para ti.",
+      "canonical": "https://prettify.es/pestanas-barcelona/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Tratamiento de Pestañas en Barcelona: Salones de Belleza Prettify",
+        "og:description": "Si buscas realzar tus pestañas naturales con un acabado elegante y sin necesidad de maquillaje, el lifting de pestañas es ideal para ti.",
+        "og:url": "https://prettify.es/pestanas-barcelona/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/pestanas-barcelona/",
+              "url": "https://prettify.es/pestanas-barcelona/",
+              "name": "Tratamiento de Pestañas en Barcelona: Salones de Belleza Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2025-01-28T18:03:31+00:00",
+              "dateModified": "2025-01-29T10:36:09+00:00",
+              "description": "Si buscas realzar tus pestañas naturales con un acabado elegante y sin necesidad de maquillaje, el lifting de pestañas es ideal para ti.",
+              "breadcrumb": {
+                "@id": "https://prettify.es/pestanas-barcelona/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/pestanas-barcelona/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/pestanas-barcelona/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Tratamiento de Pestañas en Barcelona"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 210
+    },
+    {
+      "url": "https://prettify.es/diseno-cejas-barcelona/",
+      "title": "Diseño de Cejas en Barcelona: Salones de Belleza en Prettify",
+      "meta_description": "Desde un diseño de cejas que armonice con tus facciones hasta retoques más sutiles, nuestras especialistas están...",
+      "canonical": "https://prettify.es/diseno-cejas-barcelona/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Diseño de Cejas en Barcelona: Salones de Belleza en Prettify",
+        "og:description": "Desde un diseño de cejas que armonice con tus facciones hasta retoques más sutiles, nuestras especialistas están...",
+        "og:url": "https://prettify.es/diseno-cejas-barcelona/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/diseno-cejas-barcelona/",
+              "url": "https://prettify.es/diseno-cejas-barcelona/",
+              "name": "Diseño de Cejas en Barcelona: Salones de Belleza en Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2025-01-28T17:49:37+00:00",
+              "dateModified": "2025-01-29T10:36:42+00:00",
+              "description": "Desde un diseño de cejas que armonice con tus facciones hasta retoques más sutiles, nuestras especialistas están...",
+              "breadcrumb": {
+                "@id": "https://prettify.es/diseno-cejas-barcelona/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/diseno-cejas-barcelona/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/diseno-cejas-barcelona/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Diseño de Cejas perfectas en Barcelona, diseñadas para ti"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 212
+    },
+    {
+      "url": "https://prettify.es/diseno-cejas-cerca-de-mi-barcelona/",
+      "title": "Diseño de cejas cerca de mí, en Barcelona - Prettify",
+      "meta_description": "Si buscas \"diseño de cejas cerca de mí\", en nuestro sales de belleza en Barcelona te ofrecemos el servicio perfecto para conseguir unas cejas definidas y en armonía con tu rostro.",
+      "canonical": "https://prettify.es/diseno-cejas-cerca-de-mi-barcelona/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Diseño de cejas cerca de mí, en Barcelona - Prettify",
+        "og:description": "Si buscas \"diseño de cejas cerca de mí\", en nuestro sales de belleza en Barcelona te ofrecemos el servicio perfecto para conseguir unas cejas definidas y en armonía con tu rostro.",
+        "og:url": "https://prettify.es/diseno-cejas-cerca-de-mi-barcelona/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/diseno-cejas-cerca-de-mi-barcelona/",
+              "url": "https://prettify.es/diseno-cejas-cerca-de-mi-barcelona/",
+              "name": "Diseño de cejas cerca de mí, en Barcelona - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2025-01-28T18:49:26+00:00",
+              "dateModified": "2025-01-29T10:39:00+00:00",
+              "description": "Si buscas \"diseño de cejas cerca de mí\", en nuestro sales de belleza en Barcelona te ofrecemos el servicio perfecto para conseguir unas cejas definidas y en armonía con tu rostro.",
+              "breadcrumb": {
+                "@id": "https://prettify.es/diseno-cejas-cerca-de-mi-barcelona/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/diseno-cejas-cerca-de-mi-barcelona/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/diseno-cejas-cerca-de-mi-barcelona/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Diseño de cejas cerca de mí, en Barcelona"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 192
+    },
+    {
+      "url": "https://prettify.es/pedicura-cerca-de-mi-barcelona/",
+      "title": "Pedicura cerca de mí, en Barcelona: Salones de Belleza en Prettify",
+      "meta_description": "Si buscas \"pedicura cerca de mí\" en Barcelona, en nuestros salones de belleza te ofrecemos una experiencia única para el cuidado de tus pies.",
+      "canonical": "https://prettify.es/pedicura-cerca-de-mi-barcelona/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Pedicura cerca de mí, en Barcelona: Salones de Belleza en Prettify",
+        "og:description": "Si buscas \"pedicura cerca de mí\" en Barcelona, en nuestros salones de belleza te ofrecemos una experiencia única para el cuidado de tus pies.",
+        "og:url": "https://prettify.es/pedicura-cerca-de-mi-barcelona/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/pedicura-cerca-de-mi-barcelona/",
+              "url": "https://prettify.es/pedicura-cerca-de-mi-barcelona/",
+              "name": "Pedicura cerca de mí, en Barcelona: Salones de Belleza en Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2025-01-28T18:42:43+00:00",
+              "dateModified": "2025-01-29T10:40:31+00:00",
+              "description": "Si buscas \"pedicura cerca de mí\" en Barcelona, en nuestros salones de belleza te ofrecemos una experiencia única para el cuidado de tus pies.",
+              "breadcrumb": {
+                "@id": "https://prettify.es/pedicura-cerca-de-mi-barcelona/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/pedicura-cerca-de-mi-barcelona/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/pedicura-cerca-de-mi-barcelona/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Pedicura cerca de mí, en Barcelona"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 174
+    },
+    {
+      "url": "https://prettify.es/manicura-cerca-de-mi/",
+      "title": "Manicura cerca de mí en Barcelona - Prettify",
+      "meta_description": "Si estás buscando \"manicura cerca de mí\", en nuestros salones de belleza te ofrecemos una experiencia única para manos perfectas.",
+      "canonical": "https://prettify.es/manicura-cerca-de-mi/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Manicura cerca de mí en Barcelona - Prettify",
+        "og:description": "Si estás buscando \"manicura cerca de mí\", en nuestros salones de belleza te ofrecemos una experiencia única para manos perfectas.",
+        "og:url": "https://prettify.es/manicura-cerca-de-mi/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/manicura-cerca-de-mi/",
+              "url": "https://prettify.es/manicura-cerca-de-mi/",
+              "name": "Manicura cerca de mí en Barcelona - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2025-01-28T18:25:25+00:00",
+              "dateModified": "2025-01-29T10:41:47+00:00",
+              "description": "Si estás buscando \"manicura cerca de mí\", en nuestros salones de belleza te ofrecemos una experiencia única para manos perfectas.",
+              "breadcrumb": {
+                "@id": "https://prettify.es/manicura-cerca-de-mi/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/manicura-cerca-de-mi/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/manicura-cerca-de-mi/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Manicura cerca de mí en Barcelona"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 176
+    },
+    {
+      "url": "https://prettify.es/landing/",
+      "title": "Landing - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/landing/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Landing - Prettify",
+        "og:url": "https://prettify.es/landing/",
+        "og:site_name": "Prettify",
+        "og:image": "https://prettify.es/wp-content/uploads/2024/10/ANDROID-300x89.png"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/landing/",
+              "url": "https://prettify.es/landing/",
+              "name": "Landing - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://prettify.es/landing/#primaryimage"
+              },
+              "image": {
+                "@id": "https://prettify.es/landing/#primaryimage"
+              },
+              "thumbnailUrl": "https://prettify.es/wp-content/uploads/2024/10/ANDROID-300x89.png",
+              "datePublished": "2024-10-28T15:27:27+00:00",
+              "dateModified": "2025-02-12T18:51:18+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/landing/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/landing/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "es",
+              "@id": "https://prettify.es/landing/#primaryimage",
+              "url": "https://prettify.es/wp-content/uploads/2024/10/ANDROID.png",
+              "contentUrl": "https://prettify.es/wp-content/uploads/2024/10/ANDROID.png",
+              "width": 523,
+              "height": 155
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/landing/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Landing"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 2,
+      "word_count": 17
+    },
+    {
+      "url": "https://prettify.es/franquiciado/",
+      "title": "Franquiciado - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/franquiciado/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Franquiciado - Prettify",
+        "og:url": "https://prettify.es/franquiciado/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/franquiciado/",
+              "url": "https://prettify.es/franquiciado/",
+              "name": "Franquiciado - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2024-10-14T14:44:08+00:00",
+              "dateModified": "2025-07-04T10:09:16+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/franquiciado/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/franquiciado/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/franquiciado/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Franquiciado"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://prettify.es/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Contenido restringido"
+              }
+            ]
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 10
+    },
+    {
+      "url": "https://prettify.es/contacto/",
+      "title": "Contacto - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/contacto/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Contacto - Prettify",
+        "og:url": "https://prettify.es/contacto/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/contacto/",
+              "url": "https://prettify.es/contacto/",
+              "name": "Contacto - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2023-09-14T22:10:54+00:00",
+              "dateModified": "2025-09-08T20:47:18+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/contacto/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/contacto/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/contacto/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Contacto"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 2,
+      "word_count": 44
+    },
+    {
+      "url": "https://prettify.es/pide-cita/",
+      "title": "Pide cita - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/pide-cita/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Pide cita - Prettify",
+        "og:url": "https://prettify.es/pide-cita/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/pide-cita/",
+              "url": "https://prettify.es/pide-cita/",
+              "name": "Pide cita - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2025-10-16T13:41:55+00:00",
+              "dateModified": "2025-10-16T15:57:04+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/pide-cita/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/pide-cita/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/pide-cita/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Pide cita"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 2,
+      "word_count": 0
+    },
+    {
+      "url": "https://prettify.es/servicios/",
+      "title": "Servicios - Prettify",
+      "meta_description": "Conoce todos los servicios dePrettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+      "canonical": "https://prettify.es/servicios/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Servicios - Prettify",
+        "og:description": "Conoce todos los servicios dePrettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+        "og:url": "https://prettify.es/servicios/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/servicios/",
+              "url": "https://prettify.es/servicios/",
+              "name": "Servicios - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "datePublished": "2024-10-04T16:25:09+00:00",
+              "dateModified": "2026-02-19T08:09:05+00:00",
+              "description": "Conoce todos los servicios dePrettify, tu salón de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+              "breadcrumb": {
+                "@id": "https://prettify.es/servicios/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/servicios/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/servicios/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Servicios"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 1018
+    },
+    {
+      "url": "https://prettify.es/salones/",
+      "title": "Salones - Prettify",
+      "meta_description": "Conoce los salones Prettify, tus centros de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+      "canonical": "https://prettify.es/salones/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Salones - Prettify",
+        "og:description": "Conoce los salones Prettify, tus centros de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+        "og:url": "https://prettify.es/salones/",
+        "og:site_name": "Prettify",
+        "og:image": "https://prettify.es/wp-content/uploads/2024/10/ubicacion-icon-e1728140548416.png"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/salones/",
+              "url": "https://prettify.es/salones/",
+              "name": "Salones - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://prettify.es/salones/#primaryimage"
+              },
+              "image": {
+                "@id": "https://prettify.es/salones/#primaryimage"
+              },
+              "thumbnailUrl": "https://prettify.es/wp-content/uploads/2024/10/ubicacion-icon-e1728140548416.png",
+              "datePublished": "2024-10-04T16:25:18+00:00",
+              "dateModified": "2026-04-16T13:16:01+00:00",
+              "description": "Conoce los salones Prettify, tus centros de belleza especializada en manicura, pedicura, cejas y pestañas en Barcelona, Lleida, Sitges, San Sebastián.",
+              "breadcrumb": {
+                "@id": "https://prettify.es/salones/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/salones/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "es",
+              "@id": "https://prettify.es/salones/#primaryimage",
+              "url": "https://prettify.es/wp-content/uploads/2024/10/ubicacion-icon-e1728140548416.png",
+              "contentUrl": "https://prettify.es/wp-content/uploads/2024/10/ubicacion-icon-e1728140548416.png",
+              "width": 68,
+              "height": 68
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/salones/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Salones"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "h1_count": 5,
+      "word_count": 462
+    },
+    {
+      "url": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/",
+      "title": "Bonos regalo - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Bonos regalo - Prettify",
+        "og:url": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/",
+        "og:site_name": "Prettify",
+        "og:image": "https://prettify.es/wp-content/uploads/2024/10/bono_prettify.jpg",
+        "og:image:width": "850",
+        "og:image:height": "850",
+        "og:image:type": "image/jpeg"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/",
+              "url": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/",
+              "name": "Bonos regalo - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/#primaryimage"
+              },
+              "image": {
+                "@id": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/#primaryimage"
+              },
+              "thumbnailUrl": "https://prettify.es/wp-content/uploads/2024/10/bono_prettify.jpg",
+              "datePublished": "2024-10-05T14:29:40+00:00",
+              "dateModified": "2026-03-23T12:04:10+00:00",
+              "breadcrumb": {
+                "@id": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/#breadcrumb"
+              },
+              "inLanguage": "es",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "es",
+              "@id": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/#primaryimage",
+              "url": "https://prettify.es/wp-content/uploads/2024/10/bono_prettify.jpg",
+              "contentUrl": "https://prettify.es/wp-content/uploads/2024/10/bono_prettify.jpg",
+              "width": 850,
+              "height": 850
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Tienda online",
+                  "item": "https://prettify.es/tienda-online/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Bonos regalo"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org/",
+          "@graph": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "item": {
+                    "name": "Inicio",
+                    "@id": "https://prettify.es"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "item": {
+                    "name": "Tienda online",
+                    "@id": "https://prettify.es/tienda-online/"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "item": {
+                    "name": "Bonos regalo",
+                    "@id": "https://prettify.es/categoria/bonos-regalo/"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "item": {
+                    "name": "Bonos regalo",
+                    "@id": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/"
+                  }
+                }
+              ]
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "@id": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/#product",
+              "name": "Bonos regalo",
+              "url": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/",
+              "description": "",
+              "image": "https://prettify.es/wp-content/uploads/2024/10/bono_prettify.jpg",
+              "sku": 382,
+              "offers": [
+                {
+                  "@type": "AggregateOffer",
+                  "lowPrice": "25.00",
+                  "highPrice": "100.00",
+                  "offerCount": 5,
+                  "priceValidUntil": "2027-12-31",
+                  "availability": "http://schema.org/InStock",
+                  "url": "https://prettify.es/tienda-online/bonos-regalo/bonos-regalo/",
+                  "seller": {
+                    "@type": "Organization",
+                    "name": "Prettify",
+                    "url": "https://prettify.es"
+                  },
+                  "priceCurrency": "EUR"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 84
+    },
+    {
+      "url": "https://prettify.es/categoria/bonos-regalo/",
+      "title": "Bonos regalo - Prettify",
+      "meta_description": "",
+      "canonical": "https://prettify.es/categoria/bonos-regalo/",
+      "lang": "es",
+      "og_tags": {
+        "og:locale": "es_ES",
+        "og:type": "article",
+        "og:title": "Bonos regalo - Prettify",
+        "og:url": "https://prettify.es/categoria/bonos-regalo/",
+        "og:site_name": "Prettify"
+      },
+      "schema_org": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "CollectionPage",
+              "@id": "https://prettify.es/categoria/bonos-regalo/",
+              "url": "https://prettify.es/categoria/bonos-regalo/",
+              "name": "Bonos regalo - Prettify",
+              "isPartOf": {
+                "@id": "https://prettify.es/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://prettify.es/categoria/bonos-regalo/#primaryimage"
+              },
+              "image": {
+                "@id": "https://prettify.es/categoria/bonos-regalo/#primaryimage"
+              },
+              "thumbnailUrl": "https://prettify.es/wp-content/uploads/2024/10/bono_prettify.jpg",
+              "breadcrumb": {
+                "@id": "https://prettify.es/categoria/bonos-regalo/#breadcrumb"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "es",
+              "@id": "https://prettify.es/categoria/bonos-regalo/#primaryimage",
+              "url": "https://prettify.es/wp-content/uploads/2024/10/bono_prettify.jpg",
+              "contentUrl": "https://prettify.es/wp-content/uploads/2024/10/bono_prettify.jpg",
+              "width": 850,
+              "height": 850
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://prettify.es/categoria/bonos-regalo/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Inicio",
+                  "item": "https://prettify.es/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Bonos regalo"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://prettify.es/#website",
+              "url": "https://prettify.es/",
+              "name": "Prettify",
+              "description": "Franquicias de manicura y pedicura",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://prettify.es/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "es"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "name": "Inicio",
+                "@id": "https://prettify.es"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "name": "Tienda online",
+                "@id": "https://prettify.es/tienda-online/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "name": "Bonos regalo",
+                "@id": "https://prettify.es/categoria/bonos-regalo/"
+              }
+            }
+          ]
+        }
+      ],
+      "h1_count": 3,
+      "word_count": 56
+    }
+  ]
+}

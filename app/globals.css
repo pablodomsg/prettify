@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  --nude: #f5e8e4;
+  --nude-dark: #e8c5bb;
+  --rose: #c4817a;
+  --rose-dark: #a05a55;
+  --black: #1a1a1a;
+  --white: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: var(--black);
+  background: var(--white);
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  scroll-behavior: smooth;
+}
